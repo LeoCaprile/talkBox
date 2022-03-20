@@ -1,0 +1,12 @@
+.home{
+  background-color: cornflowerblue;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  gap: 10px;
+}
+
+.logo{
+  justify-self: center;
+}

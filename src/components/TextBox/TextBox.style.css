@@ -1,0 +1,8 @@
+.textbox{
+    min-width: 300px;
+    min-height: 100px;
+    max-height:150px;
+    max-width: 350px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: x-large;
+}

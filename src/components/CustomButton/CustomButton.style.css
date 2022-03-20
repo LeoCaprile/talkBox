@@ -1,0 +1,6 @@
+.custombutton{
+    border:none;
+    outline: 1px solid black; 
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
